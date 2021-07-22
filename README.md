@@ -9,9 +9,8 @@ A curated list of awesome Ebiten frameworks, libraries and software
 
 ### Contents
 
-- [Awesome Ebiten](#awesome-ebiten)
-    - [Frameworks](#frameworks)
-    - [GUI](#gui)
+- [Frameworks](#frameworks)
+- [GUI](#gui)
 
 
 ### Frameworks
