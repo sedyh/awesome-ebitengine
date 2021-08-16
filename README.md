@@ -25,3 +25,10 @@ If you see a package or project here that is no longer maintained or is not a go
 ### GUI
 
 *Libraries for building GUI Applications*
+
+* [ebitenui](https://github.com/blizzy78/ebitenui) - A user interface engine and widget library for Ebiten.
+* [furex](https://github.com/yohamta/furex) - A simple UI framework with a subset of flexbox layout specification.
+* [egui](https://github.com/xackery/egui) - Ebiten Graphical User Interface (and Framework).
+* [gameui](https://github.com/martinlindhe/gameui) - A game UI for golang with boilerplate to run with Ebiten.
+* [gosprite](https://github.com/magicsea/gosprite) - Easy to use go drawing library, cocos-like interface, providing simple 2d drawing and simple UI.
+* [goui](https://github.com/kpfaulkner/goui) - UI library for creating desktop applications.
