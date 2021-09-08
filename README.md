@@ -1,4 +1,4 @@
-# <img align="right" src="https://ebiten.org/images/logo.png" alt="awesome-go" title="awesome-go" /> Awesome Ebiten
+# <img align="right" src="https://ebiten.org/images/logo.png" alt="awesome-ebiten" title="awesome-ebiten" /> Awesome Ebiten
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -16,6 +16,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 - [Frameworks](#frameworks)
 - [GUI](#gui)
+- [Physics](#physics)
 
 
 ### Frameworks
@@ -32,3 +33,10 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gameui](https://github.com/martinlindhe/gameui) - A game UI for golang with boilerplate to run with Ebiten.
 * [gosprite](https://github.com/magicsea/gosprite) - Easy to use go drawing library, cocos-like interface, providing simple 2d drawing and simple UI.
 * [goui](https://github.com/kpfaulkner/goui) - UI library for creating desktop applications.
+
+
+### Physics
+
+*Useful libraries for physics*
+
+* [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
