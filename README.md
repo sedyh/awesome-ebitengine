@@ -17,7 +17,7 @@ If you see a package or project here that is no longer maintained or is not a go
 - [Frameworks](#frameworks)
 - [GUI](#gui)
 - [Physics](#physics)
-
+- [Camera](#camera)
 
 ### Frameworks
 
@@ -34,9 +34,14 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gosprite](https://github.com/magicsea/gosprite) - Easy to use go drawing library, cocos-like interface, providing simple 2d drawing and simple UI.
 * [goui](https://github.com/kpfaulkner/goui) - UI library for creating desktop applications.
 
-
 ### Physics
 
 *Useful libraries for physics*
 
 * [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
+
+### Camera
+
+*Camera and coordinate transformations*
+
+* [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) - A simple camera implementation based on vrld's HUMP for Love2d
