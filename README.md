@@ -38,6 +38,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 *Useful libraries for physics*
 
+* [ch](https://github.com/jakecoffman/cp) - 2D rigid body physics library, ported to Go
 * [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
 
 ### Camera
