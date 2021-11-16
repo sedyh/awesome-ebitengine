@@ -16,6 +16,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 - [Frameworks](#frameworks)
 - [GUI](#gui)
+- [Graphics](#grahics)
 - [Physics](#physics)
 - [Camera](#camera)
 
@@ -33,6 +34,12 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gameui](https://github.com/martinlindhe/gameui) - A game UI for golang with boilerplate to run with Ebiten.
 * [gosprite](https://github.com/magicsea/gosprite) - Easy to use go drawing library, cocos-like interface, providing simple 2d drawing and simple UI.
 * [goui](https://github.com/kpfaulkner/goui) - UI library for creating desktop applications.
+
+### Graphics
+
+*Useful libraries for graphics*
+
+* [Tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebiten, primarily for video games.
 
 ### Physics
 
