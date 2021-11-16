@@ -39,13 +39,13 @@ If you see a package or project here that is no longer maintained or is not a go
 
 *Useful libraries for graphics*
 
-* [Tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebiten, primarily for video games.
+* [tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebiten, primarily for video games.
 
 ### Physics
 
 *Useful libraries for physics*
 
-* [ch](https://github.com/jakecoffman/cp) - 2D rigid body physics library, ported to Go
+* [cp](https://github.com/jakecoffman/cp) - A 2D rigid body physics library - Chipmunk2D, ported to Go.
 * [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
 
 ### Camera
