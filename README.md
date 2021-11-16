@@ -16,7 +16,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 - [Frameworks](#frameworks)
 - [GUI](#gui)
-- [Graphics](#grahics)
+- [Graphics](#graphics)
 - [Physics](#physics)
 - [Camera](#camera)
 
