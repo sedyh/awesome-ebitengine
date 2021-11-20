@@ -24,7 +24,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 *Various architectural patterns and approaches to game design*
 
-* [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity component system framework for Ebiten.
+* [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity Component System framework for Ebiten.
 
 ### GUI
 
