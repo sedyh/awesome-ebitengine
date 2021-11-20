@@ -24,7 +24,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 *Various architectural patterns and approaches to game design*
 
-* [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity component system framework for Ebiten
+* [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity component system framework for Ebiten.
 
 ### GUI
 
@@ -54,4 +54,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 *Camera and coordinate transformations*
 
-* [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) - A simple camera implementation based on vrld's HUMP for Love2d
+* [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) - A simple camera implementation based on vrld's HUMP for Love2d.
