@@ -18,7 +18,7 @@ If you see a package or project here that is no longer maintained or is not a go
 - [GUI](#gui)
 - [Graphics](#graphics)
 - [Physics](#physics)
-- [Camera](#camera)
+- [World](#world)
 - [Toolkits](#toolkits)
 - [Games](#games)
 
@@ -44,6 +44,8 @@ If you see a package or project here that is no longer maintained or is not a go
 *Useful libraries for graphics*
 
 * [tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebiten, primarily for video games.
+* [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
+* [gween](https://github.com/SolarLune/gween) - A small library to perform tweening in Go.
 
 ### Physics
 
@@ -52,11 +54,13 @@ If you see a package or project here that is no longer maintained or is not a go
 * [cp](https://github.com/jakecoffman/cp) - A 2D rigid body physics library - Chipmunk2D, ported to Go.
 * [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
 
-### Camera
+### World
 
-*Camera and coordinate transformations*
+*Interaction with the game world*
 
 * [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) - A simple camera implementation based on vrld's HUMP for Love2d.
+* [dngn](https://github.com/SolarLune/dngn) - A golang library specifically created to help make generating random maps easier.
+* [paths](https://github.com/SolarLune/paths) - A pathfinding library written in Golang created mainly for video games.
 
 ### Toolkits
 
