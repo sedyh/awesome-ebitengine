@@ -46,6 +46,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebiten, primarily for video games.
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
 * [gween](https://github.com/SolarLune/gween) - A small library to perform tweening in Go.
+* [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
 
 ### Physics
 
@@ -67,6 +68,7 @@ If you see a package or project here that is no longer maintained or is not a go
 *Integration with development tools*
 
 * [ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
+* [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
 
 ### Games
 
