@@ -75,7 +75,9 @@ If you see a package or project here that is no longer maintained or is not a go
 *Games, demoscenes and emulators written in Ebiten*
 
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
+* [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
+* [minesweeper-go](https://github.com/mevdschee/minesweeper.go) - Minesweeper game in Go that can compile to WASM (uses Ebiten v2).
 * [travel-game](https://github.com/danicat/travel-game) - A remake of an 80's card game classic "Around the World" (pt-br: "Volta ao Mundo").
 * [gcuk21](https://github.com/danicat/gcuk21) - A step-by-step guide to creating a remake of an 80's card game classic "Around the World".
 * [lost-the-plot](https://github.com/TheMightyGit/losttheplot-ggj21) - Twitchty action gun-play of "Guess Who?" combined with the casual of "Tomb Raider".
