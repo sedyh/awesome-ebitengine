@@ -21,6 +21,7 @@ If you see a package or project here that is no longer maintained or is not a go
 - [World](#world)
 - [Toolkits](#toolkits)
 - [Games](#games)
+- [Applications](#applications)
 
 ### Frameworks
 
@@ -47,6 +48,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
 * [gween](https://github.com/SolarLune/gween) - A small library to perform tweening in Go.
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
+* [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go + Ebiten v2 2D library.
 
 ### Physics
 
@@ -62,6 +64,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) - A simple camera implementation based on vrld's HUMP for Love2d.
 * [dngn](https://github.com/SolarLune/dngn) - A golang library specifically created to help make generating random maps easier.
 * [paths](https://github.com/SolarLune/paths) - A pathfinding library written in Golang created mainly for video games.
+* [go-astar](https://github.com/beefsack/go-astar) - A* pathfinding implementation for Go.
 
 ### Toolkits
 
@@ -76,11 +79,22 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
+* [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
+* [godanmaku](https://github.com/yohamta/godanmaku) - Simple shooting game using Ebiten and Golang.
+* [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebiten.
+* [skulls](https://github.com/rootVIII/skulls) - A simple Columns-like strategy game developed in Golang with the Ebiten library (for Android).
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [minesweeper-go](https://github.com/mevdschee/minesweeper.go) - Minesweeper game in Go that can compile to WASM (uses Ebiten v2).
 * [travel-game](https://github.com/danicat/travel-game) - A remake of an 80's card game classic "Around the World" (pt-br: "Volta ao Mundo").
 * [gcuk21](https://github.com/danicat/gcuk21) - A step-by-step guide to creating a remake of an 80's card game classic "Around the World".
 * [lost-the-plot](https://github.com/TheMightyGit/losttheplot-ggj21) - Twitchty action gun-play of "Guess Who?" combined with the casual of "Tomb Raider".
-* [zyko0-gameoff2021](https://github.com/Zyko0/GameOff2021) - This is a runner game made in Go with Ebiten engine.
+* [btod](https://github.com/Zyko0/GameOff2021) - This is a runner game made in Go with Ebiten engine.
 * [carotid-artillery](https://code.rocketnine.space/tslocum/carotidartillery) - A top-down twin-stick shooter.
 * [cr1ckt](https://github.com/sinisterstuf/cr1ckt) - Tap left and right to jump through the caves to the fruit ...as long as the game.
+
+### Applications
+
+*Other useful programs that use Ebiten*
+
+* [darktile](https://github.com/liamg/darktile) - A GPU rendered terminal emulator designed for tiling window managers.
+* [screenpos](https://github.com/barjoio/screenpos) - A simple way to get a position on your screen using your keyboard and the visual aid of a grid.
