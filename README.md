@@ -65,6 +65,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [dngn](https://github.com/SolarLune/dngn) - A golang library specifically created to help make generating random maps easier.
 * [paths](https://github.com/SolarLune/paths) - A pathfinding library written in Golang created mainly for video games.
 * [go-astar](https://github.com/beefsack/go-astar) - A* pathfinding implementation for Go.
+* [megophone](https://github.com/seedco/megophone) - The Double-Metaphone algorithm in Go.
 
 ### Toolkits
 
@@ -84,6 +85,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebiten.
 * [skulls](https://github.com/rootVIII/skulls) - A simple Columns-like strategy game developed in Golang with the Ebiten library (for Android).
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
+* [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) - A simple breakout game made in Ebiten.
 * [minesweeper-go](https://github.com/mevdschee/minesweeper.go) - Minesweeper game in Go that can compile to WASM (uses Ebiten v2).
 * [travel-game](https://github.com/danicat/travel-game) - A remake of an 80's card game classic "Around the World" (pt-br: "Volta ao Mundo").
 * [gcuk21](https://github.com/danicat/gcuk21) - A step-by-step guide to creating a remake of an 80's card game classic "Around the World".
