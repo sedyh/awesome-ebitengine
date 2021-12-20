@@ -81,6 +81,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
 * [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
+* [monovania](https://code.rocketnine.space/tslocum/monovania) - Metroidvania game.
 * [godanmaku](https://github.com/yohamta/godanmaku) - Simple shooting game using Ebiten and Golang.
 * [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebiten.
 * [skulls](https://github.com/rootVIII/skulls) - A simple Columns-like strategy game developed in Golang with the Ebiten library (for Android).
