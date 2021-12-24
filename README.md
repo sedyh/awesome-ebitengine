@@ -19,7 +19,7 @@ If you see a package or project here that is no longer maintained or is not a go
 - [Graphics](#graphics)
 - [Physics](#physics)
 - [World](#world)
-- [Toolkits](#toolkits)
+- [Tools](#tools)
 - [Games](#games)
 - [Applications](#applications)
 
@@ -69,7 +69,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ### Tools
 
-*Integration with development tools*
+*Development tools*
 
 * [ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
 * [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
