@@ -29,7 +29,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity Component System framework for Ebiten.
 * [mizu](https://github.com/sedyh/mizu) - Entity Component System framework for Ebiten.
-* [goecs](https://github.com/x-hgg-x/goecs) - An implementation of the ECS paradigm in Go.
+* [goecsengine](https://github.com/x-hgg-x/goecsengine) - A simple game engine using Ebiten with ECS. 
 
 ### GUI
 
