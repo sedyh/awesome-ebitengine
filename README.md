@@ -113,4 +113,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [darktile](https://github.com/liamg/darktile) - A GPU rendered terminal emulator designed for tiling window managers.
 * [screenpos](https://github.com/barjoio/screenpos) - A simple way to get a position on your screen using your keyboard and the visual aid of a grid.
-* [neko](https://github.com/crgimenes/neko) - Neko is a cross-platform open-source animated cursor-chasing cat. This is the reimplementation write in Go.
+* [neko](https://github.com/crgimenes/neko) - Neko is a cross-platform open-source animated cursor-chasing cat.
