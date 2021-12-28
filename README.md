@@ -101,7 +101,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go + Ebiten v2 2D library.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang conversion of raycaster engine using the Ebiten 2D Game Library.
 * [kuronan-dash](https://github.com/kemokemo/kuronan-dash) - Doujin game "Kuronan Dash" from the comic "Nekomusume Doujinshi".
-* [sokoban-go](github.com/x-hgg-x/sokoban-go) - Sokoban game in Go using Ebiten game engine with ECS.
+* [sokoban-go](https://github.com/x-hgg-x/sokoban-go) - Sokoban game in Go using Ebiten game engine with ECS.
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) - Arkanoid game in Go using Ebiten game engine with ECS.
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebiten game engine with ECS.
 * [biogo](https://github.com/alexanderscrimgeour/biogo) - A simple genetic simulator written in Go.
