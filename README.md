@@ -28,6 +28,8 @@ If you see a package or project here that is no longer maintained or is not a go
 *Various architectural patterns and approaches to game design*
 
 * [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity Component System framework for Ebiten.
+* [mizu](https://github.com/sedyh/mizu) - Entity Component System framework for Ebiten.
+* [goecs](https://github.com/x-hgg-x/goecs) - An implementation of the ECS paradigm in Go.
 
 ### GUI
 
@@ -48,7 +50,6 @@ If you see a package or project here that is no longer maintained or is not a go
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
 * [gween](https://github.com/SolarLune/gween) - A small library to perform tweening in Go.
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
-* [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go + Ebiten v2 2D library.
 
 ### Physics
 
@@ -96,6 +97,15 @@ If you see a package or project here that is no longer maintained or is not a go
 * [btod](https://github.com/Zyko0/GameOff2021) - This is a runner game made in Go with Ebiten engine.
 * [carotid-artillery](https://code.rocketnine.space/tslocum/carotidartillery) - A top-down twin-stick shooter.
 * [cr1ckt](https://github.com/sinisterstuf/cr1ckt) - Tap left and right to jump through the caves to the fruit ...as long as the game.
+* [go-space-crane](https://github.com/spiritofsim/go-space-crane) - Simple moonlander like game with some new mechanics.
+* [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go + Ebiten v2 2D library.
+* [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang conversion of raycaster engine using the Ebiten 2D Game Library.
+* [kuronan-dash](https://github.com/kemokemo/kuronan-dash) - Doujin game "Kuronan Dash" from the comic "Nekomusume Doujinshi".
+* [sokoban-go](github.com/x-hgg-x/sokoban-go) - Sokoban game in Go using Ebiten game engine with ECS.
+* [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) - Arkanoid game in Go using Ebiten game engine with ECS.
+* [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebiten game engine with ECS.
+* [biogo](https://github.com/alexanderscrimgeour/biogo) - A simple genetic simulator written in Go.
+* [fire](https://github.com/dim13/fire) - Experiments with ebiten - Doomfire.
 
 ### Applications
 
@@ -103,3 +113,4 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [darktile](https://github.com/liamg/darktile) - A GPU rendered terminal emulator designed for tiling window managers.
 * [screenpos](https://github.com/barjoio/screenpos) - A simple way to get a position on your screen using your keyboard and the visual aid of a grid.
+* [neko](https://github.com/crgimenes/neko) - Neko is a cross-platform open-source animated cursor-chasing cat. This is the reimplementation write in Go.
