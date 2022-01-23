@@ -1,4 +1,4 @@
-# <img align="right" src="https://ebiten.org/images/logo.png" alt="awesome-ebiten" title="awesome-ebiten" /> Awesome Ebiten
+# <img align="right" width="220px" src="https://user-images.githubusercontent.com/19890545/150686558-1152e61d-1dc7-4eed-9e3c-fd3aed9011f2.png" alt="awesome-ebiten" title="awesome-ebiten" /> Awesome Ebiten
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
@@ -21,11 +21,12 @@ If you see a package or project here that is no longer maintained or is not a go
 - [World](#world)
 - [Tools](#tools)
 - [Games](#games)
+- [Demoscenes](#games)
 - [Applications](#applications)
 
 ### Frameworks
 
-*Various architectural patterns and approaches to game design*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Various architectural patterns and approaches to game design*
 
 * [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity Component System framework for Ebiten.
 * [mizu](https://github.com/sedyh/mizu) - Entity Component System framework for Ebiten.
@@ -33,9 +34,10 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ### GUI
 
-*Libraries for building GUI Applications*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Libraries for building GUI Applications*
 
 * [ebitenui](https://github.com/blizzy78/ebitenui) - A user interface engine and widget library for Ebiten.
+* [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebiten.
 * [furex](https://github.com/yohamta/furex) - A simple UI framework with a subset of flexbox layout specification.
 * [egui](https://github.com/xackery/egui) - Ebiten Graphical User Interface (and Framework).
 * [gameui](https://github.com/martinlindhe/gameui) - A game UI for golang with boilerplate to run with Ebiten.
@@ -44,7 +46,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ### Graphics
 
-*Useful libraries for graphics*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Useful libraries for graphics*
 
 * [tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebiten, primarily for video games.
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
@@ -53,14 +55,14 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ### Physics
 
-*Useful libraries for physics*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Useful libraries for physics*
 
 * [cp](https://github.com/jakecoffman/cp) - A 2D rigid body physics library - Chipmunk2D, ported to Go.
 * [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
 
 ### World
 
-*Interaction with the game world*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Interaction with the game world*
 
 * [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) - A simple camera implementation based on vrld's HUMP for Love2d.
 * [dngn](https://github.com/SolarLune/dngn) - A golang library specifically created to help make generating random maps easier.
@@ -70,16 +72,14 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ### Tools
 
-*Development tools*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Integration with development tools*
 
 * [ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
 * [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
-* [wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for Wasm testing like gopherjs serve.
-* [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) - An implementation of the popular graphics benchmark written on Ebiten.
 
 ### Games
 
-*Games, demoscenes and emulators written in Ebiten*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Games and emulators written in Ebiten*
 
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
@@ -92,25 +92,33 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) - A simple breakout game made in Ebiten.
 * [minesweeper-go](https://github.com/mevdschee/minesweeper.go) - Minesweeper game in Go that can compile to WASM (uses Ebiten v2).
 * [travel-game](https://github.com/danicat/travel-game) - A remake of an 80's card game classic "Around the World" (pt-br: "Volta ao Mundo").
-* [gcuk21](https://github.com/danicat/gcuk21) - A step-by-step guide to creating a remake of an 80's card game classic "Around the World".
 * [lost-the-plot](https://github.com/TheMightyGit/losttheplot-ggj21) - Twitchty action gun-play of "Guess Who?" combined with the casual of "Tomb Raider".
 * [btod](https://github.com/Zyko0/GameOff2021) - This is a runner game made in Go with Ebiten engine.
 * [carotid-artillery](https://code.rocketnine.space/tslocum/carotidartillery) - A top-down twin-stick shooter.
 * [cr1ckt](https://github.com/sinisterstuf/cr1ckt) - Tap left and right to jump through the caves to the fruit ...as long as the game.
 * [go-space-crane](https://github.com/spiritofsim/go-space-crane) - Simple moonlander like game with some new mechanics.
-* [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go + Ebiten v2 2D library.
-* [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang conversion of raycaster engine using the Ebiten 2D Game Library.
 * [kuronan-dash](https://github.com/kemokemo/kuronan-dash) - Doujin game "Kuronan Dash" from the comic "Nekomusume Doujinshi".
 * [sokoban-go](https://github.com/x-hgg-x/sokoban-go) - Sokoban game in Go using Ebiten game engine with ECS.
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) - Arkanoid game in Go using Ebiten game engine with ECS.
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebiten game engine with ECS.
+
+
+### Demoscenes
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Demoscenes and simulations written in Ebiten*
+
+* [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go + Ebiten v2 2D library.
+* [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang conversion of raycaster engine using the Ebiten 2D Game Library.
 * [biogo](https://github.com/alexanderscrimgeour/biogo) - A simple genetic simulator written in Go.
 * [fire](https://github.com/dim13/fire) - Experiments with ebiten - Doomfire.
 
+
 ### Applications
 
-*Other useful programs that use Ebiten*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Other useful programs that use or are made for Ebiten*
 
 * [darktile](https://github.com/liamg/darktile) - A GPU rendered terminal emulator designed for tiling window managers.
 * [screenpos](https://github.com/barjoio/screenpos) - A simple way to get a position on your screen using your keyboard and the visual aid of a grid.
+* [wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for Wasm testing like gopherjs serve.
+* [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) - An implementation of the popular graphics benchmark written on Ebiten.
 * [neko](https://github.com/crgimenes/neko) - Neko is a cross-platform open-source animated cursor-chasing cat.
