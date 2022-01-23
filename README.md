@@ -1,4 +1,4 @@
-# <img align="right" width="220px" src="https://user-images.githubusercontent.com/19890545/150686558-1152e61d-1dc7-4eed-9e3c-fd3aed9011f2.png" alt="awesome-ebiten" title="awesome-ebiten" /> Awesome Ebiten
+# <img align="right" width="120px" src="https://user-images.githubusercontent.com/19890545/150686558-1152e61d-1dc7-4eed-9e3c-fd3aed9011f2.png" alt="awesome-ebiten" title="awesome-ebiten" /> Awesome Ebiten
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
