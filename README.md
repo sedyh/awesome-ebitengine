@@ -87,6 +87,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [monovania](https://code.rocketnine.space/tslocum/monovania) - Metroidvania game.
 * [godanmaku](https://github.com/yohamta/godanmaku) - Simple shooting game using Ebiten and Golang.
 * [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebiten.
+* [aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [skulls](https://github.com/rootVIII/skulls) - A simple Columns-like strategy game developed in Golang with the Ebiten library (for Android).
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) - A simple breakout game made in Ebiten.
