@@ -20,6 +20,7 @@ If you see a package or project here that is no longer maintained or is not a go
 - [Physics](#physics)
 - [World](#world)
 - [Tools](#tools)
+- [Input](#input)
 - [Games](#games)
 - [Demoscenes](#demoscenes)
 - [Applications](#applications)
@@ -77,6 +78,12 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
 * [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
 
+### Input
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Input and output across platforms*
+
+* [clipboard](https://github.com/golang-design/clipboard) - Cross platform (macOS/Linux/Windows/Android/iOS) clipboard package in Go.
+
 ### Games
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Games and emulators written in Ebiten*
@@ -123,3 +130,4 @@ If you see a package or project here that is no longer maintained or is not a go
 * [wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for Wasm testing like gopherjs serve.
 * [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) - An implementation of the popular graphics benchmark written on Ebiten.
 * [neko](https://github.com/crgimenes/neko) - Neko is a cross-platform open-source animated cursor-chasing cat.
+* [sketchy](https://github.com/aldernero/sketchy) - A framework for creating generative art in Go.
