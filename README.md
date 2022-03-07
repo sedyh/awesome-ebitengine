@@ -90,11 +90,13 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
-* [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
-* [monovania](https://code.rocketnine.space/tslocum/monovania) - Metroidvania game.
-* [godanmaku](https://github.com/yohamta/godanmaku) - Simple shooting game using Ebiten and Golang.
-* [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebiten.
 * [aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebiten.
+* [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
+* [godanmaku](https://github.com/yohamta/godanmaku) - Simple shooting game using Ebiten and Golang.
+* [monovania](https://code.rocketnine.space/tslocum/monovania) - Metroidvania game.
+* [brownboxbatman](https://code.rocketnine.space/tslocum/brownboxbatman) - A bullet hell video game.
+* [citylimits](https://code.rocketnine.space/tslocum/citylimits) - A city-building simulation video game.
 * [skulls](https://github.com/rootVIII/skulls) - A simple Columns-like strategy game developed in Golang with the Ebiten library (for Android).
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) - A simple breakout game made in Ebiten.
