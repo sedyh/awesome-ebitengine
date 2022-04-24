@@ -53,6 +53,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
 * [gween](https://github.com/SolarLune/gween) - A small library to perform tweening in Go.
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
+* [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebiten inspired by [anim8](https://github.com/kikito/anim8).
 
 ### Physics
 
