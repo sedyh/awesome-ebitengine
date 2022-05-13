@@ -55,6 +55,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gween](https://github.com/SolarLune/gween) - A small library to perform tweening in Go.
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
 * [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebiten inspired by [anim8](https://github.com/kikito/anim8).
+* [etxt](https://github.com/tinne26/etxt) - A library for font management and text rendering in Ebiten.
 
 ### Physics
 
