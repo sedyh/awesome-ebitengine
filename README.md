@@ -45,6 +45,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gameui](https://github.com/martinlindhe/gameui) - A game UI for golang with boilerplate to run with Ebiten.
 * [gosprite](https://github.com/magicsea/gosprite) - Easy to use go drawing library, cocos-like interface, providing simple 2d drawing and simple UI.
 * [goui](https://github.com/kpfaulkner/goui) - UI library for creating desktop applications.
+* [messeji](https://code.rocketnine.space/tslocum/messeji) - Text input and display widgets for Ebitengine.
 
 ### Graphics
 
@@ -86,6 +87,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Input and output across platforms*
 
 * [clipboard](https://github.com/golang-design/clipboard) - Cross platform (macOS/Linux/Windows/Android/iOS) clipboard package in Go.
+* [kibodo](https://code.rocketnine.space/tslocum/kibodo) - On-screen keyboard widget for Ebitengine.
 
 ### Games
 
@@ -114,7 +116,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [sokoban-go](https://github.com/x-hgg-x/sokoban-go) - Sokoban game in Go using Ebiten game engine with ECS.
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) - Arkanoid game in Go using Ebiten game engine with ECS.
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebiten game engine with ECS.
-
+* [fishfightback](https://code.rocketnine.space/tslocum/fishfightback) - A side-scrolling bullet hell video game.
 
 ### Demoscenes
 
