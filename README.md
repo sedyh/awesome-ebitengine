@@ -117,6 +117,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) - Arkanoid game in Go using Ebiten game engine with ECS.
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebiten game engine with ECS.
 * [fishfightback](https://code.rocketnine.space/tslocum/fishfightback) - A side-scrolling bullet hell video game.
+* [gtris](https://github.com/luisparravicini/gtris) - A Tetris clone.
 
 ### Demoscenes
 
