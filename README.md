@@ -52,6 +52,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Useful libraries for graphics*
 
 * [tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebiten, primarily for video games.
+* [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
 * [gween](https://github.com/SolarLune/gween) - A small library to perform tweening in Go.
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
@@ -123,7 +124,6 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Demoscenes and simulations written in Ebiten*
 
 * [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go + Ebiten v2 2D library.
-* [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang conversion of raycaster engine using the Ebiten 2D Game Library.
 * [biogo](https://github.com/alexanderscrimgeour/biogo) - A simple genetic simulator written in Go.
 * [fire](https://github.com/dim13/fire) - Experiments with ebiten - Doomfire.
 
