@@ -12,6 +12,13 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
+### Wiki
+
+Please visit our [wiki](../../wiki) for a curated list of the helpful articles and best practices about Ebiten.
+
+If you have a great article or tutorial, please submit it through issues.
+
+
 ### Contents
 
 - [Frameworks](#frameworks)
