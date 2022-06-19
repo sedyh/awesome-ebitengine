@@ -48,10 +48,6 @@ If you have a great article or tutorial, please submit it through issues.
 * [ebitenui](https://github.com/blizzy78/ebitenui) - A user interface engine and widget library for Ebiten.
 * [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebiten.
 * [furex](https://github.com/yohamta/furex) - A simple UI framework with a subset of flexbox layout specification.
-* [egui](https://github.com/xackery/egui) - Ebiten Graphical User Interface (and Framework).
-* [gameui](https://github.com/martinlindhe/gameui) - A game UI for golang with boilerplate to run with Ebiten.
-* [gosprite](https://github.com/magicsea/gosprite) - Easy to use go drawing library, cocos-like interface, providing simple 2d drawing and simple UI.
-* [goui](https://github.com/kpfaulkner/goui) - UI library for creating desktop applications.
 * [messeji](https://code.rocketnine.space/tslocum/messeji) - Text input and display widgets for Ebitengine.
 
 ### Graphics
