@@ -99,6 +99,7 @@ If you have a great article or tutorial, please submit it through issues.
 
 * [aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [bindless](https://github.com/tinne26/bindless) - Puzzles in a magnetic world for Ebitengine's first game jam (2022).
+* [mag](https://github.com/kettek/ebijam22) - Defend the embryonic core from the onslaught of magnetic robottos.
 * [attraction](https://github.com/jcgraybill/attraction) - A sokoban-like puzzle game, where you move magnetic pieces in order to collect gems within a limited number of moves.
 * [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
 * [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebitengine.
@@ -107,7 +108,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [monovania](https://code.rocketnine.space/tslocum/monovania) - Metroidvania game.
 * [brownboxbatman](https://code.rocketnine.space/tslocum/brownboxbatman) - A bullet hell video game.
 * [citylimits](https://code.rocketnine.space/tslocum/citylimits) - A city-building simulation video game.
-* [skulls](https://github.com/rootVIII/skulls) - A simple Columns-like strategy game developed in Golang with the Ebitengine library (for Android).
+* [skulls](https://github.com/rootVIII/skulls) - A simple columns-like strategy game developed in Golang with the Ebitengine library (for Android).
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) - A simple breakout game made in Ebitengine.
 * [minesweeper-go](https://github.com/mevdschee/minesweeper.go) - Minesweeper game in Go that can compile to WASM (uses Ebitengine v2).
