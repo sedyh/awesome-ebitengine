@@ -97,9 +97,10 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Games and emulators written in Ebiten*
 
-* [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
-* [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
 * [aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [bindless](https://github.com/tinne26/bindless) - Puzzles in a magnetic world for Ebitengine's first game jam (2022).
+* [attraction](https://github.com/jcgraybill/attraction) - A sokoban-like puzzle game, where you move magnetic pieces in order to collect gems within a limited number of moves.
+* [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
 * [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebitengine.
 * [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
 * [godanmaku](https://github.com/yohamta/godanmaku) - Simple shooting game using Ebitengine and Golang.
@@ -122,6 +123,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebitengine game engine with ECS.
 * [fishfightback](https://code.rocketnine.space/tslocum/fishfightback) - A side-scrolling bullet hell video game.
 * [gtris](https://github.com/luisparravicini/gtris) - A Tetris clone.
+* [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 
 ### Demoscenes
 
