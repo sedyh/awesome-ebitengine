@@ -26,7 +26,7 @@ If you have a great article or tutorial, please submit it through issues.
 - [Graphics](#graphics)
 - [Physics](#physics)
 - [World](#world)
-- [Tools](#tools)
+- [Integration](#integration)
 - [Input](#input)
 - [Games](#games)
 - [Demoscenes](#demoscenes)
@@ -79,12 +79,13 @@ If you have a great article or tutorial, please submit it through issues.
 * [go-astar](https://github.com/beefsack/go-astar) - A* pathfinding implementation for Go.
 * [megophone](https://github.com/seedco/megophone) - The Double-Metaphone algorithm in Go.
 
-### Tools
+### Integration
 
-<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Integration with development tools*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Integration with other programs*
 
 * [ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
 * [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
+* [ebitengine-discord-rpc](https://github.com/EldersJavas/ebitengine-discord-rpc) - Discord Rich Presence for Ebitengine.
 
 ### Input
 
