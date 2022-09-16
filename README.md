@@ -49,7 +49,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebitengine.
 * [furex](https://github.com/yohamta/furex) - A simple UI framework with a subset of flexbox layout specification.
 * [messeji](https://code.rocketnine.space/tslocum/messeji) - Text input and display widgets for Ebitengine.
-* [ebitenui](https://github.com/blizzy78/ebitenui) - A user interface engine and widget library for Ebitengine.
+* [ebitenui](https://github.com/blizzy78/ebitenui) - A user interface engine and widget library for Ebitengine. (archived, read-only)
 
 ### Graphics
 
