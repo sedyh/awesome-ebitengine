@@ -36,10 +36,10 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Various architectural patterns and approaches to game design*
 
-* [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity Component System framework for Ebitengine.
 * [donburi](https://github.com/yohamta/donburi) - Just another Entity Component System library for Ebitengine.
+* [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity Component System framework for Ebitengine.
 * [mizu](https://github.com/sedyh/mizu) - Entity Component System framework for Ebitengine.
-* [goecsengine](https://github.com/x-hgg-x/goecsengine) - A simple game engine using Ebitengine with ECS. 
+* [goecsengine](https://github.com/x-hgg-x/goecs) - An implementation of the ECS paradigm in Go. 
 * [pgfsm](https://github.com/PenguinCabinet/pgfsm) - A state and stack machine framework for Ebitengine.
 
 ### GUI
