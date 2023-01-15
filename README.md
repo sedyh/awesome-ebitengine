@@ -46,10 +46,10 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Libraries for building GUI Applications*
 
+* [ebitenui](https://github.com/ebitenui/ebitenui) - A user interface engine and widget library for Ebitengine.
 * [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebitengine.
 * [furex](https://github.com/yohamta/furex) - A simple UI framework with a subset of flexbox layout specification.
 * [messeji](https://code.rocketnine.space/tslocum/messeji) - Text input and display widgets for Ebitengine.
-* [ebitenui](https://github.com/ebitenui/ebitenui) - A user interface engine and widget library for Ebitengine.
 
 ### Graphics
 
