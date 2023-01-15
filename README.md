@@ -94,8 +94,8 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Input and output across platforms*
 
-* [ebitengine-input] (https://github.com/quasilyte/ebitengine-input) - A Godot-inspired action input handling system for Ebitengine.
-* [clipboard](https://github.com/golang-design/clipboard) - Cross platform (macOS/Linux/Windows/Android/iOS) clipboard package in Go.
+* [ebitengine-input](https://github.com/quasilyte/ebitengine-input) - A Godot-inspired action input handling system for Ebitengine.
+* [clipboard](https://github.com/golang-design/clipboard) - Cross platform (MacOS/Linux/Windows/Android/iOS) clipboard package in Go.
 * [kibodo](https://code.rocketnine.space/tslocum/kibodo) - On-screen keyboard widget for Ebitengine.
 
 ### Games
