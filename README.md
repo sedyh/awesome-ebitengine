@@ -61,7 +61,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
-* [gween](https://github.com/SolarLune/gween) - A small library to perform tweening in Go.
+* [gween](https://github.com/tanema/gween) - A small library to perform tweening in Go.
 * [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8).
 * [reisen](https://github.com/zergon321/reisen) - A simple library to extract video and audio frames from media containers (based on libav).
 
