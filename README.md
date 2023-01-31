@@ -26,6 +26,7 @@ If you have a great article or tutorial, please submit it through issues.
 - [Graphics](#graphics)
 - [Physics](#physics)
 - [World](#world)
+- [Resources](#resources)
 - [Integration](#integration)
 - [Input](#input)
 - [Games](#games)
@@ -81,6 +82,12 @@ If you have a great article or tutorial, please submit it through issues.
 * [paths](https://github.com/SolarLune/paths) - A pathfinding library written in Golang created mainly for video games.
 * [go-astar](https://github.com/beefsack/go-astar) - A* pathfinding implementation for Go.
 * [megophone](https://github.com/seedco/megophone) - The Double-Metaphone algorithm in Go.
+
+### Resources
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Resource management for games, their loading, packing and caching*
+
+* [ebitengine-resource](https://github.com/quasilyte/ebitengine-resource) - A resource manager for Ebitengine.
 
 ### Integration
 
