@@ -39,7 +39,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [donburi](https://github.com/yohamta/donburi) - Just another Entity Component System library for Ebitengine.
 * [gohan](https://code.rocketnine.space/tslocum/gohan) - Entity Component System framework for Ebitengine.
 * [mizu](https://github.com/sedyh/mizu) - Entity Component System framework for Ebitengine.
-* [goecsengine](https://github.com/x-hgg-x/goecs) - An implementation of the ECS paradigm in Go. 
+* [goecs](https://github.com/x-hgg-x/goecs) - An implementation of the ECS paradigm in Go. 
 * [pgfsm](https://github.com/PenguinCabinet/pgfsm) - A state and stack machine framework for Ebitengine.
 
 ### GUI
