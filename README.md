@@ -114,6 +114,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [escort-mission](https://github.com/sinisterstuf/escort-mission) - Follow a dog through a post-apocalytpic wasteland full of zombies.
 * [mag](https://github.com/kettek/ebijam22) - Defend the embryonic core from the onslaught of magnetic robottos.
 * [decipherism-game](https://github.com/quasilyte/decipherism-game) - A puzzle game where you solve the encoding machine ciphers.
+* [roboden-game](https://github.com/quasilyte/roboden-game) - An indirect control real-time strategy game about robot colonies.
 * [attraction](https://github.com/jcgraybill/attraction) - A sokoban-like puzzle game, where you move magnetic pieces in order to collect gems within a limited number of moves.
 * [domagna](https://github.com/Zyko0/Magnet) - Dodge obstacles while falling through a tube with magnetic surfaces.
 * [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
