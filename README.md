@@ -138,6 +138,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [sokoban-go](https://github.com/x-hgg-x/sokoban-go) - Sokoban game in Go using Ebitengine game engine with ECS.
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) - Arkanoid game in Go using Ebitengine game engine with ECS.
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebitengine game engine with ECS.
+* [pong](https://github.com/drpaneas/pong) - Pong is a classic arcade game developed by Atari and originally released back in 1972.
 * [fishfightback](https://code.rocketnine.space/tslocum/fishfightback) - A side-scrolling bullet hell video game.
 * [gtris](https://github.com/luisparravicini/gtris) - A Tetris clone.
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
