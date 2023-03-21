@@ -56,13 +56,13 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Useful libraries for graphics*
 
-* [aseprite](https://github.com/askeladdk/aseprite) - An image loader for Aseprite files, supports animation tags, layers and more.
 * [tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebitengine, primarily for video games.
 * [etxt](https://github.com/tinne26/etxt) - A library for font management and text rendering in Ebitengine.
-* [canvas](https://github.com/eihigh/canvas) - Cairo in Go for Ebitengine.
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
-* [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
+* [canvas](https://github.com/eihigh/canvas) - Cairo in Go for Ebitengine.
+* [aseprite](https://github.com/askeladdk/aseprite) - An image loader for Aseprite files, supports animation tags, layers and more.
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
+* [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [gween](https://github.com/tanema/gween) - A small library to perform tweening in Go.
 * [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8).
 * [reisen](https://github.com/zergon321/reisen) - A simple library to extract video and audio frames from media containers (based on libav).
