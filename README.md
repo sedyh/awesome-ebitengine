@@ -67,6 +67,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [gween](https://github.com/tanema/gween) - A small library to perform tweening in Go.
 * [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8).
 * [reisen](https://github.com/zergon321/reisen) - A simple library to extract video and audio frames from media containers (based on libav).
+* [mpeg](https://github.com/gen2brain/mpeg) - A MPEG-1 video decoder, MP2 audio decoder and MPEG-PS demuxer in pure Go.
 
 ### Physics
 
