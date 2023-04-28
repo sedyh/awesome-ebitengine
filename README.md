@@ -84,7 +84,6 @@ If you have a great article or tutorial, please submit it through issues.
 * [dngn](https://github.com/SolarLune/dngn) - A golang library specifically created to help make generating random maps easier.
 * [paths](https://github.com/SolarLune/paths) - A pathfinding library written in Golang created mainly for video games.
 * [go-astar](https://github.com/beefsack/go-astar) - A* pathfinding implementation for Go.
-* [megophone](https://github.com/seedco/megophone) - The Double-Metaphone algorithm in Go.
 
 ### Resources
 
