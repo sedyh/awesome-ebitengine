@@ -24,6 +24,8 @@ If you have a great article or tutorial, please submit it through issues.
 - [Frameworks](#frameworks)
 - [GUI](#gui)
 - [Graphics](#graphics)
+- [Video](#video)
+- [Audio](#audio)
 - [Physics](#physics)
 - [World](#world)
 - [Resources](#resources)
@@ -66,12 +68,23 @@ If you have a great article or tutorial, please submit it through issues.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [gween](https://github.com/tanema/gween) - A small library to perform tweening in Go.
 * [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8).
+
+### Video
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Video decoding and playback*
+
 * [reisen](https://github.com/zergon321/reisen) - A simple library to extract video and audio frames from media containers (based on libav).
 * [mpeg](https://github.com/gen2brain/mpeg) - A MPEG-1 video decoder, MP2 audio decoder and MPEG-PS demuxer in pure Go.
 
+### Audio
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Audio delay, low-pass filtering, panning, distortion*
+
+* [resound](https://github.com/SolarLune/resound) - A library for applying sound effects to Ebitengine games and controlling sound playback easily. 
+
 ### Physics
 
-<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Useful libraries for physics*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Rigid-body dynamics, collision detection and resolution*
 
 * [cp](https://github.com/jakecoffman/cp) - A 2D rigid body physics library - Chipmunk2D, ported to Go.
 * [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
@@ -80,6 +93,8 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Interaction with the game world*
 
+* [ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
+* [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
 * [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) - A simple camera implementation based on vrld's HUMP for Love2d.
 * [dngn](https://github.com/SolarLune/dngn) - A golang library specifically created to help make generating random maps easier.
 * [paths](https://github.com/SolarLune/paths) - A pathfinding library written in Golang created mainly for video games.
@@ -95,8 +110,7 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Integration with other programs*
 
-* [ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
-* [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
+* [go-steamworks](https://github.com/hajimehoshi/go-steamworks) - A Steamworks SDK binding for Go.
 * [ebitengine-discord-rpc](https://github.com/EldersJavas/ebitengine-discord-rpc) - Discord Rich Presence for Ebitengine.
 
 ### Input
@@ -149,8 +163,8 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Demoscenes and simulations written in Ebitengine*
 
-* [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go + Ebitengine v2 2D library.
-* [protozoa](https://github.com/Zebbeni/protozoa) - A simulation of protozoan behavior and evolution. 
+* [ray-engine](https://github.com/Myu-Unix/ray_engine) - A toy raycasting engine built with Go and Ebitengine.
+* [protozoa](https://github.com/Zebbeni/protozoa) - A simulation of protozoan behavior and evolution.
 * [biogo](https://github.com/alexanderscrimgeour/biogo) - A simple genetic simulator written in Go.
 * [fire](https://github.com/dim13/fire) - Experiments with Ebitengine - Doomfire.
 
