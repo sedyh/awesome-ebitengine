@@ -29,6 +29,7 @@ If you have a great article or tutorial, please submit it through issues.
 - [Physics](#physics)
 - [World](#world)
 - [Resources](#resources)
+- [Networking](#networking)
 - [Integration](#integration)
 - [Input](#input)
 - [Games](#games)
@@ -106,6 +107,13 @@ If you have a great article or tutorial, please submit it through issues.
 
 * [ebitengine-resource](https://github.com/quasilyte/ebitengine-resource) - A resource manager for Ebitengine.
 
+### Networking
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Realtime messaging and multiplayer on different platforms*
+
+* [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for Go with FEC.
+* [go-enet](https://github.com/codecat/go-enet) - Enet bindings for Go.
+
 ### Integration
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Integration with other programs*
@@ -173,6 +181,7 @@ If you have a great article or tutorial, please submit it through issues.
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Other useful programs that use or are made for Ebiten*
 
+* [sketchy](https://github.com/aldernero/sketchy) - A framework for creating generative art in Go.
 * [darktile](https://github.com/liamg/darktile) - A GPU rendered terminal emulator designed for tiling window managers.
 * [screenpos](https://github.com/barjoio/screenpos) - A simple way to get a position on your screen using your keyboard and the visual aid of a grid.
 * [wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for Wasm testing like gopherjs serve.
