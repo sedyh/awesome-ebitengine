@@ -187,4 +187,3 @@ If you have a great article or tutorial, please submit it through issues.
 * [wasmserve](https://github.com/hajimehoshi/wasmserve) - An HTTP server for Wasm testing like gopherjs serve.
 * [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) - An implementation of the popular graphics benchmark written on Ebitengine.
 * [neko](https://github.com/crgimenes/neko) - Neko is a cross-platform open-source animated cursor-chasing cat.
-* [sketchy](https://github.com/aldernero/sketchy) - A framework for creating generative art in Go.
