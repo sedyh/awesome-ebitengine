@@ -135,6 +135,7 @@ If you have a great article or tutorial, please submit it through issues.
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Games and emulators written in Ebiten*
 
 * [aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
+* [assemblox](https://github.com/quasilyte/gmtk2023) - A 2D real-time strategy game made for a GMTK2023 game jam.
 * [bindless](https://github.com/tinne26/bindless) - Puzzles in a magnetic world for Ebitengine's first game jam (2022).
 * [escort-mission](https://github.com/sinisterstuf/escort-mission) - Follow a dog through a post-apocalytpic wasteland full of zombies.
 * [mag](https://github.com/kettek/ebijam22) - Defend the embryonic core from the onslaught of magnetic robottos.
