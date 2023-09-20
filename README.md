@@ -101,6 +101,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [paths](https://github.com/SolarLune/paths) - A pathfinding library written in Golang created mainly for video games.
 * [go-astar](https://github.com/beefsack/go-astar) - A* pathfinding implementation for Go.
 * [grid](https://github.com/s0rg/grid) - Generic 2D grid with pathfinding, ray and shadow casting and line-of-sight.
+* [pathing](https://github.com/quasilyte/pathing) - A grid-based pathfinding; somewhat restrictive, but very efficient.
 
 ### Resources
 
