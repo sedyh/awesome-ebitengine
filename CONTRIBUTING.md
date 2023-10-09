@@ -20,8 +20,7 @@ Libraries should also have:
 
 Games should also have:
 - Instructions for launching via go run.
-- Release with binaries for windows/macos/linux.
-- Online demo version, if possible.
+- Online demo version or release with binaries for windows/macos/linux.
 
 Binaries should also have:
 - Tags with the current version 
