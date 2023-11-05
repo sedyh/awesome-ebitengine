@@ -108,6 +108,7 @@ If you have a great article or tutorial, please submit it through issues.
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Resource management for games, their loading, packing and caching*
 
 * [ebitengine-resource](https://github.com/quasilyte/ebitengine-resource) - A resource manager for Ebitengine.
+* [gdata](https://github.com/quasilyte/gdata) - A gamedata package that provides convenient cross-platform storage.
 
 ### Networking
 
