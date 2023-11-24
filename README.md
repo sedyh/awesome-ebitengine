@@ -145,6 +145,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [roboden-game](https://github.com/quasilyte/roboden-game) - An indirect control real-time strategy game about robot colonies.
 * [attraction](https://github.com/jcgraybill/attraction) - A sokoban-like puzzle game, where you move magnetic pieces in order to collect gems within a limited number of moves.
 * [domagna](https://github.com/Zyko0/Magnet) - Dodge obstacles while falling through a tube with magnetic surfaces.
+* [mini-tanks](https://github.com/DTLP/mini_tanks) - Fight enemy tanks and defend your base.
 * [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
 * [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebitengine.
 * [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
