@@ -83,6 +83,7 @@ If you have a great article or tutorial, please submit it through issues.
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Audio delay, low-pass filtering, panning, distortion*
 
 * [resound](https://github.com/SolarLune/resound) - A library for applying sound effects to Ebitengine games and controlling sound playback easily. 
+* [xm](https://github.com/quasilyte/xm) - A library for XM music format support: play and modify XM music straight from your game.
 
 ### Physics
 
