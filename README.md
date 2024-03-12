@@ -71,6 +71,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [gween](https://github.com/tanema/gween) - A small library to perform tweening in Go.
 * [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8).
+* [ebitengine-graphics](https://github.com/quasilyte/ebitengine-graphics) - A library that implements graphical primitives like Sprite, Line, Rect, etc.
 
 ### Video
 
