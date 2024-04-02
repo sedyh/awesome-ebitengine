@@ -186,6 +186,7 @@ If you have a great article or tutorial, please submit it through issues.
 * [biogo](https://github.com/alexanderscrimgeour/biogo) - A simple genetic simulator written in Go.
 * [fire](https://github.com/dim13/fire) - Experiments with Ebitengine - Doomfire.
 * [balls-ebiten](https://github.com/icza/balls-ebiten) - Bouncing balls demo - collision and rotatable gravity simulation.
+* [ebitengine-hexboard](https://github.com/ConValance/ebitengine-hexboard) - A simple example of hexboard with Ebitengine.
 
 
 ### Applications
