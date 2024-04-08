@@ -200,3 +200,4 @@ If you have a great article or tutorial, please submit it through issues.
 * [ebiten-bunny-mark](https://github.com/sedyh/ebiten-bunny-mark) - An implementation of the popular graphics benchmark written on Ebitengine.
 * [neko](https://github.com/crgimenes/neko) - Neko is a cross-platform open-source animated cursor-chasing cat.
 * [kagei](https://github.com/MatusOllah/kagei) - A CLI tool for testing Kage shaders.
+* [kageviewer](https://github.com/TLINDEN/kageviewer) - A CLI tool to run, view and test Kage shaders.
