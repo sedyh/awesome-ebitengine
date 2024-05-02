@@ -122,6 +122,7 @@ If you have a great article or tutorial, please submit it through issues.
 
 * [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for Go with FEC.
 * [go-enet](https://github.com/codecat/go-enet) - Enet bindings for Go.
+* [necs](https://github.com/leap-fish/necs) - A networking layer for Donburi ECS.
 
 ### Integration
 
