@@ -154,8 +154,17 @@ If you have a great article or tutorial, please submit it through issues.
 * [domagna](https://github.com/Zyko0/Magnet) - Dodge obstacles while falling through a tube with magnetic surfaces.
 * [mini-tanks](https://github.com/DTLP/mini_tanks) - Fight enemy tanks and defend your base.
 * [worldwide](https://github.com/pokemium/worldwide) - A toy GameBoy Color emulator written in golang.
+* [tetriverse](https://github.com/Critters/TETRIVERSE) - Tetris... in reverse.
+* [retromancer](https://github.com/ketMix/retromancer) - Harness the powers of reversing time and fight the Lich in this short action-adventure pseudo bullet-hell game.
+* [sinecord](https://github.com/quasilyte/sinecord) - Solve the puzzles and create the music along the way.
 * [gosol](https://github.com/oddstream/gosol) - Polymorphic solitaire engine in Go+Ebitengine.
 * [feta-feles-remastered](https://github.com/TheTophatDemon/Feta-Feles-Remastered) - An eerie bullet hell shooter, featuring a small story based around your "pet cat".
+* [passage](https://github.com/sjpau/passage) - Small puzzle game. Reverse glyphs to create a passage from * to O.
+* [red-cat-run-2d](https://github.com/hinst/red-cat-run-2d) - Become enlightened in this cat platformer game.
+* [revdriller](https://github.com/yohamta/revdriller) - Control a character that has a drill, and dig through the ceiling, reverse breakable and unbreakable blocks.
+* [reverset-raiders](https://github.com/PrizeLobby/reverset-raiders) - Defeat your enemy by strategically choosing which tiles to flip over to boost the animals that come towards him.
+* [amaru](https://github.com/nmorenor/amaru) - Rid the sea of waste and rescue the trapped marine animals in multiplayer mode.
+* [game-engine-dev-sim](https://github.com/hajimehoshi/ebitenginegamejam2023) - Tackle endless bugs and feature requests that relentlessly attack, and strive for a world-class game engine.
 * [godanmaku](https://github.com/yohamta/godanmaku) - Simple shooting game using Ebitengine and Golang.
 * [monovania](https://code.rocket9labs.com/tslocum/monovania) - Metroidvania game.
 * [brownboxbatman](https://code.rocket9labs.com/tslocum/brownboxbatman) - A bullet hell video game.
