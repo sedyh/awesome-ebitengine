@@ -46,7 +46,8 @@ If you have a great article or tutorial, please submit it through issues.
 * [gohan](https://code.rocket9labs.com/tslocum/gohan) - Entity Component System framework for Ebitengine.
 * [goecs](https://github.com/x-hgg-x/goecs) - An implementation of the ECS paradigm in Go. 
 * [pgfsm](https://github.com/PenguinCabinet/pgfsm) - A state and stack machine framework for Ebitengine.
-* [stagehand](https://github.com/joelschutz/stagehand) - The only scene manager you will ever need for Ebitengine
+* [fsm](https://github.com/looplab/fsm) - A Finite State Machine for Go.
+* [stagehand](https://github.com/joelschutz/stagehand) - The only scene manager you will ever need for Ebitengine.
 
 ### GUI
 
