@@ -102,6 +102,7 @@ If you have a great article or tutorial, please submit it through issues.
 
 * [ldtkgo](https://github.com/SolarLune/ldtkgo) - LDtk-Go is a loader for "Level Designer Toolkit" projects written in pure Go.
 * [go-tiled](https://github.com/lafriks/go-tiled) - Go library to parse Tiled map editor file format (TMX) and render map to image.
+* [kamera](https://github.com/setanarut/kamera) - A camera with simplex shake, lerp motion, rotation and zooming.
 * [ebiten-camera](https://github.com/scarycoffee/ebiten-camera) - A simple camera implementation based on vrld's HUMP for Love2d.
 * [dngn](https://github.com/SolarLune/dngn) - A golang library specifically created to help make generating random maps easier.
 * [paths](https://github.com/SolarLune/paths) - A pathfinding library written in Golang created mainly for video games.
