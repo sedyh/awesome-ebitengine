@@ -139,7 +139,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ### Games
 
-<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Games and emulators written in Ebiten*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Games and emulators written in Ebitengine*
 
 * [aaaaxy](https://github.com/divVerent/aaaaxy) - A nonlinear 2D puzzle platformer taking place in non-Euclidean geometry.
 * [assemblox](https://github.com/quasilyte/gmtk2023) - A 2D real-time strategy game made for a GMTK2023 game jam.
@@ -201,7 +201,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 ### Applications
 
-<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Other useful programs that use or are made for Ebiten*
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Other useful programs that use or are made for Ebitengine*
 
 * [sketchy](https://github.com/aldernero/sketchy) - A framework for creating generative art in Go.
 * [darktile](https://github.com/liamg/darktile) - A GPU rendered terminal emulator designed for tiling window managers.
