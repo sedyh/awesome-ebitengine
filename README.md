@@ -12,13 +12,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/s
 
 If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
 
-### Wiki
-
-Please visit our [wiki](../../wiki) for a curated list of the helpful articles and best practices about Ebitengine.
-
-If you have a great article or tutorial, please submit it through issues.
-
-
 ### Contents
 
 - [Frameworks](#frameworks)
@@ -35,6 +28,7 @@ If you have a great article or tutorial, please submit it through issues.
 - [Games](#games)
 - [Demoscenes](#demoscenes)
 - [Applications](#applications)
+- [Articles](#articles)
 
 ### Frameworks
 
@@ -218,3 +212,10 @@ If you have a great article or tutorial, please submit it through issues.
 * [kageviewer](https://github.com/TLINDEN/kageviewer) - A CLI tool to run, view and test Kage shaders.
 * [kageland](https://www.kageland.com/) - A website to create, find and share Kage shaders - inspired by Shadertoy.
 
+#### Articles
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Implementation details of the engine, game loop, etc.*
+
+* [tps-vs-fps](https://github.com/tinne26/tps-vs-fps) - Detailed explanation of how fps and tps work in Ebitengine.
+* [kage-desk](https://github.com/tinne26/kage-desk) - Gentle introduction to the Kage shading language.
+* [how-rendering-works](https://docs.google.com/document/d/1m60UWG9LFWgpO1vQaf5cUPx3MIsyRGklbOkT2mPxoAo/edit?pli=1#heading=h.rvlaezb31cye) - How Ebitengine achieves efficent rendering with its simple Image API.
