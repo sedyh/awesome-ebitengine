@@ -44,6 +44,8 @@ If you see a package or project here that is no longer maintained or is not a go
 * [pgfsm](https://github.com/PenguinCabinet/pgfsm) - A state and stack machine framework for Ebitengine.
 * [looplab-fsm](https://github.com/looplab/fsm) - A Finite State Machine for Go.
 * [stagehand](https://github.com/joelschutz/stagehand) - The only scene manager you will ever need for Ebitengine.
+* [routine](https://github.com/SolarLune/routine) - A package for running routines.
+* [mipix](https://github.com/tinne26/mipix) - A pixel art aware layout and camera managment.
 
 ### GUI
 
