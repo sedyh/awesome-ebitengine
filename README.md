@@ -68,6 +68,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [gween](https://github.com/tanema/gween) - A small library to perform tweening in Go.
 * [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8).
+* [anim](https://github.com/setanarut/anim) - An animation player for Ebitengine.
 * [ebitengine-graphics](https://github.com/quasilyte/ebitengine-graphics) - A library that implements graphical primitives like Sprite, Line, Rect, etc.
 * [bitmapfont](https://github.com/hajimehoshi/bitmapfont) - A plug-and-play `font.Face`, that supports a wide range of languages and symbols
 * [bitsweetfont](https://github.com/quasilyte/bitsweetfont) - A plug-and-play `font.Face` that has limited language support, but has multiple sizes
