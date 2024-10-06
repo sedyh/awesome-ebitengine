@@ -64,6 +64,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [tetra3d](https://github.com/SolarLune/Tetra3d) - A 3D software renderer written in Go by means of Ebitengine, primarily for video games.
 * [etxt](https://github.com/tinne26/etxt) - A library for font management and text rendering in Ebitengine.
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
+* [go-colorful](https://github.com/lucasb-eyer/go-colorful) - A complex library for handling color spaces and comparing colors.
 * [canvas](https://github.com/eihigh/canvas) - Cairo in Go for Ebitengine.
 * [aseprite](https://github.com/askeladdk/aseprite) - An image loader for Aseprite files, supports animation tags, layers and more.
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
