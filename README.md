@@ -97,7 +97,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [cp](https://github.com/jakecoffman/cp) - A 2D rigid body physics library - Chipmunk2D, ported to Go.
 * [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
 * [box2d](https://github.com/Alexander-r/box2d) - A Go port of Box2D v2.4.1 physics library.
-* [Physix.go](https://github.com/rudransh61/Physix-go) - A simple Physics engine in GoLang
+* [physix-go](https://github.com/rudransh61/Physix-go) - A simple physics engine in Golang
 * [physac-go](https://github.com/koteyur/physac-go) - A single file physics engine for videogames.
 
 ### World
