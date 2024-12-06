@@ -22,6 +22,7 @@ If you see a package or project here that is no longer maintained or is not a go
 - [Physics](#physics)
 - [World](#world)
 - [Resources](#resources)
+- [Scripting](#scripting)
 - [Networking](#networking)
 - [Integration](#integration)
 - [Input](#input)
@@ -120,6 +121,13 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [ebitengine-resource](https://github.com/quasilyte/ebitengine-resource) - A resource manager for Ebitengine.
 * [gdata](https://github.com/quasilyte/gdata) - A gamedata package that provides convenient cross-platform storage.
+
+### Scripting
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Embedded languages ​​and related tools*
+* [scriggo](https://github.com/open2b/scriggo) - Powerful template engine and Go embeddable interpreter.
+* [tengo](https://github.com/d5/tengo) - Fast scripting language for Go.
+* [go-lua](https://github.com/Shopify/go-lua) - Port of Lua VM in Go.
 
 ### Networking
 
