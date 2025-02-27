@@ -67,6 +67,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [colorgrad](https://github.com/mazznoer/colorgrad) - Go color scales library for data visualization, charts, games, maps, generative art and others.
 * [go-colorful](https://github.com/lucasb-eyer/go-colorful) - A complex library for handling color spaces and comparing colors.
 * [canvas](https://github.com/eihigh/canvas) - Cairo in Go for Ebitengine.
+* [cubism-go](https://github.com/aethiopicuschan/cubism-go) - Unofficial Live2D Cubism SDK for Golang.
 * [aseprite](https://github.com/askeladdk/aseprite) - An image loader for Aseprite files, supports animation tags, layers and more.
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
