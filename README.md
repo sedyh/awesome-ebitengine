@@ -36,7 +36,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Various architectural patterns and approaches to game design*
 
 * [donburi](https://github.com/yohamta/donburi) - Just another Entity Component System library for Ebitengine.
-* [arche](https://github.com/mlange-42/arche) - An archetype-based Entity Component System for Go.
+* [ark](https://github.com/mlange-42/ark) - An archetype-based Entity Component System for Go.
 * [unitoftime-ecs](https://github.com/unitoftime/ecs) - A simple and generic ECS implementation in Go.
 * [gameengine-ecs](https://github.com/marioolofo/go-gameengine-ecs) - A fast Entity Component System in Golang.
 * [mizu](https://github.com/sedyh/mizu) - Entity Component System framework for Ebitengine.
