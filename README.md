@@ -44,6 +44,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [goecs](https://github.com/x-hgg-x/goecs) - An implementation of the ECS paradigm in Go. 
 * [pgfsm](https://github.com/PenguinCabinet/pgfsm) - A state and stack machine framework for Ebitengine.
 * [looplab-fsm](https://github.com/looplab/fsm) - A Finite State Machine for Go.
+* [bamenn](https://github.com/noppikinatta/bamenn) - Simple scene library for Ebitengine.
 * [stagehand](https://github.com/joelschutz/stagehand) - The only scene manager you will ever need for Ebitengine.
 * [routine](https://github.com/SolarLune/routine) - A package for running routines.
 * [mipix](https://github.com/tinne26/mipix) - A pixel art aware layout and camera managment.
