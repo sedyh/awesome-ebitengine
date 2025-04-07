@@ -40,7 +40,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [unitoftime-ecs](https://github.com/unitoftime/ecs) - A simple and generic ECS implementation in Go.
 * [gameengine-ecs](https://github.com/marioolofo/go-gameengine-ecs) - A fast Entity Component System in Golang.
 * [mizu](https://github.com/sedyh/mizu) - Entity Component System framework for Ebitengine.
-* [gohan](https://code.rocket9labs.com/tslocum/gohan) - Entity Component System framework for Ebitengine.
+* [gohan](https://codeberg.org/tslocum/gohan) - Entity Component System framework for Ebitengine.
 * [goecs](https://github.com/x-hgg-x/goecs) - An implementation of the ECS paradigm in Go. 
 * [pgfsm](https://github.com/PenguinCabinet/pgfsm) - A state and stack machine framework for Ebitengine.
 * [looplab-fsm](https://github.com/looplab/fsm) - A Finite State Machine for Go.
@@ -56,8 +56,8 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ebitenui](https://github.com/ebitenui/ebitenui) - A user interface engine and widget library for Ebitengine.
 * [ebiten-imgui](https://github.com/gabstv/ebiten-imgui) - Dear ImGui renderer for Ebitengine.
 * [furex](https://github.com/yohamta/furex) - A simple UI framework with a subset of flexbox layout specification.
-* [messeji](https://code.rocket9labs.com/tslocum/messeji) - Text input and display widgets for Ebitengine.
-* [etk](https://code.rocket9labs.com/tslocum/etk) - Tool kit for creating graphical user interfaces.
+* [messeji](https://codeberg.org/tslocum/etk/src/branch/main/messeji) - Text input and display widgets for Ebitengine.
+* [etk](https://codeberg.org/tslocum/etk) - Tool kit for creating graphical user interfaces.
 
 ### Graphics
 
@@ -153,7 +153,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [ebitengine-input](https://github.com/quasilyte/ebitengine-input) - A Godot-inspired action input handling system for Ebitengine.
 * [clipboard](https://github.com/golang-design/clipboard) - Cross platform (MacOS/Linux/Windows/Android/iOS) clipboard package in Go.
-* [kibodo](https://code.rocket9labs.com/tslocum/kibodo) - On-screen keyboard widget for Ebitengine.
+* [kibodo](https://codeberg.org/tslocum/etk/src/branch/main/kibodo) - On-screen keyboard widget for Ebitengine.
 
 ### Games
 
@@ -182,9 +182,9 @@ If you see a package or project here that is no longer maintained or is not a go
 * [amaru](https://github.com/nmorenor/amaru) - Rid the sea of waste and rescue the trapped marine animals in multiplayer mode.
 * [game-engine-dev-sim](https://github.com/hajimehoshi/ebitenginegamejam2023) - Tackle endless bugs and feature requests that relentlessly attack, and strive for a world-class game engine.
 * [godanmaku](https://github.com/yohamta/godanmaku) - Simple shooting game using Ebitengine and Golang.
-* [monovania](https://code.rocket9labs.com/tslocum/monovania) - Metroidvania game.
-* [brownboxbatman](https://code.rocket9labs.com/tslocum/brownboxbatman) - A bullet hell video game.
-* [citylimits](https://code.rocket9labs.com/tslocum/citylimits) - A city-building simulation video game.
+* [monovania](https://codeberg.org/tslocum/monovania) - Metroidvania game.
+* [brownboxbatman](https://codeberg.org/tslocum/brownboxbatman) - A bullet hell video game.
+* [citylimits](https://codeberg.org/tslocum/citylimits) - A city-building simulation video game.
 * [skulls](https://github.com/rootVIII/skulls) - A simple columns-like strategy game developed in Golang with the Ebitengine library (for Android).
 * [go-inovation](https://github.com/hajimehoshi/go-inovation) - Port of "INO VATION! 2007". You are a wild boar. Collect the three sacred treasures!
 * [ebiten-breakout](https://github.com/eliasdaler/ebiten_breakout) - A simple breakout game made in Ebitengine.
@@ -192,7 +192,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [travel-game](https://github.com/danicat/travel-game) - A remake of an 80's card game classic "Around the World" (pt-br: "Volta ao Mundo").
 * [lost-the-plot](https://github.com/TheMightyGit/losttheplot-ggj21) - Twitchty action gun-play of "Guess Who?" combined with the casual of "Tomb Raider".
 * [btod](https://github.com/Zyko0/GameOff2021) - This is a runner game made in Go with Ebitengine.
-* [carotid-artillery](https://code.rocket9labs.com/tslocum/carotidartillery) - A top-down twin-stick shooter.
+* [carotid-artillery](https://codeberg.org/tslocum/carotidartillery) - A top-down twin-stick shooter.
 * [cr1ckt](https://github.com/sinisterstuf/cr1ckt) - Tap left and right to jump through the caves to the fruit... as long as the game.
 * [go-space-crane](https://github.com/spiritofsim/go-space-crane) - Simple moonlander like game with some new mechanics.
 * [kuronan-dash](https://github.com/kemokemo/kuronan-dash) - Doujin game "Kuronan Dash" from the comic "Nekomusume Doujinshi".
@@ -200,10 +200,10 @@ If you see a package or project here that is no longer maintained or is not a go
 * [arkanoid-go](https://github.com/x-hgg-x/arkanoid-go) - Arkanoid game in Go using Ebitengine game engine with ECS.
 * [space-invaders-go](https://github.com/x-hgg-x/space-invaders-go) - Space invaders game in Go using Ebitengine game engine with ECS.
 * [pong](https://github.com/drpaneas/pong) - Pong is a classic arcade game developed by Atari and originally released back in 1972.
-* [fishfightback](https://code.rocket9labs.com/tslocum/fishfightback) - A side-scrolling bullet hell video game.
+* [fishfightback](https://codeberg.org/tslocum/fishfightback) - A side-scrolling bullet hell video game.
 * [gtris](https://github.com/luisparravicini/gtris) - A Tetris clone.
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
-* [boxcars](https://code.rocket9labs.com/tslocum/boxcars) - A client for playing backgammon online.
+* [boxcars](https://codeberg.org/tslocum/boxcars) - A client for playing backgammon online.
 
 ### Demoscenes
 
