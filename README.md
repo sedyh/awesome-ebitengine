@@ -204,8 +204,8 @@ If you see a package or project here that is no longer maintained or is not a go
 * [gtris](https://github.com/luisparravicini/gtris) - A Tetris clone.
 * [open-diablo-2](https://github.com/OpenDiablo2/OpenDiablo2) - An ARPG game engine in the same vein of the 2000's games, and supports playing Diablo 2.
 * [boxcars](https://codeberg.org/tslocum/boxcars) - A client for playing backgammon online.
-* [snake-ebitengine](https://github.com/fancellu/snake-ebitengine) Snake game with hopefully useful example code and WASM demo.
-* [jointforce](https://codeberg.org/tslocum/jointforce) Two actor puzzle game. 
+* [snake-ebitengine](https://github.com/fancellu/snake-ebitengine) - Snake game with hopefully useful example code and WASM demo.
+* [jointforce](https://codeberg.org/tslocum/jointforce) - Two actor puzzle game. 
 
 ### Demoscenes
 
