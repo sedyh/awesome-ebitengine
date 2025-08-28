@@ -48,6 +48,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [stagehand](https://github.com/joelschutz/stagehand) - The only scene manager you will ever need for Ebitengine.
 * [routine](https://github.com/SolarLune/routine) - A package for running routines.
 * [mipix](https://github.com/tinne26/mipix) - A pixel art aware layout and camera managment.
+* [egriden](https://github.com/greenthepear/egriden) - Framework for creating grid-based games and more.
 
 ### GUI
 
