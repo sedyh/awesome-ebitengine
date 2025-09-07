@@ -218,7 +218,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [fire](https://github.com/dim13/fire) - Experiments with Ebitengine - Doomfire.
 * [balls-ebiten](https://github.com/icza/balls-ebiten) - Bouncing balls demo - collision and rotatable gravity simulation.
 * [ebitengine-hexboard](https://github.com/ConValance/ebitengine-hexboard) - A simple example of hexboard with Ebitengine.
-
+* [nature-of-code-ebiten](https://github.com/philyawj/nature-of-code-ebiten) - Ports of The Nature of Code examples to Go using the Ebitengine game engine.
 
 ### Applications
 
