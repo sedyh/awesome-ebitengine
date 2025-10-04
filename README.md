@@ -209,7 +209,8 @@ If you see a package or project here that is no longer maintained or is not a go
 * [boxcars](https://codeberg.org/tslocum/boxcars) - A client for playing backgammon online.
 * [snake-ebitengine](https://github.com/fancellu/snake-ebitengine) - Snake game with hopefully useful example code and WASM demo.
 * [jointforce](https://codeberg.org/tslocum/jointforce) - Two actor puzzle game. 
-
+* [zengo](https://github.com/nbnds/zengo) - Meditative tile-arranging puzzle
+  
 ### Demoscenes
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Demoscenes and simulations written in Ebitengine*
