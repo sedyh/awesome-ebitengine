@@ -103,7 +103,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [resolv](https://github.com/SolarLune/resolv) - 2D collision detection and resolution library.
 * [box2d-go](https://github.com/oliverbestmann/box2d-go) - A Go port of Box2D v3 physics library.
 * [box2d](https://github.com/Alexander-r/box2d) - A Go port of Box2D v2.4.1 physics library.
-* [tilecollider](https://github.com/setanarut/tilecollider) - A simple 2D tile-based collision detection package 
+* [coll](https://github.com/setanarut/coll) - 2D collision detection and resolution library.
 * [physix-go](https://github.com/rudransh61/Physix-go) - A simple physics engine in Golang.
 * [physac-go](https://github.com/koteyur/physac-go) - A single file physics engine for videogames.
 
