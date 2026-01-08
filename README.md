@@ -26,6 +26,7 @@ If you see a package or project here that is no longer maintained or is not a go
 - [Networking](#networking)
 - [Integration](#integration)
 - [Input](#input)
+- [Testing](#testing)
 - [Games](#games)
 - [Demoscenes](#demoscenes)
 - [Applications](#applications)
@@ -158,6 +159,11 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ebitengine-input](https://github.com/quasilyte/ebitengine-input) - A Godot-inspired action input handling system for Ebitengine.
 * [clipboard](https://github.com/golang-design/clipboard) - Cross platform (MacOS/Linux/Windows/Android/iOS) clipboard package in Go.
 * [kibodo](https://codeberg.org/tslocum/etk/src/branch/main/kibodo) - On-screen keyboard widget for Ebitengine.
+
+### Testing
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Auxiliary packages for graphics testing*
+
+* [ebitest](https://github.com/xescugc/ebitest) - A library to test Ebiten UI through inputs and asserting on what should be on the screen.
 
 ### Games
 
