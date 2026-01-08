@@ -73,6 +73,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [cubism-go](https://github.com/aethiopicuschan/cubism-go) - Unofficial Live2D Cubism SDK for Golang.
 * [aseprite](https://github.com/askeladdk/aseprite) - An image loader for Aseprite files, supports animation tags, layers and more.
 * [goaseprite](https://github.com/SolarLune/goaseprite) - A JSON loader for Aseprite files for Golang.
+* [aseplayer](https://github.com/setanarut/aseplayer) - Aseprite animation player for Ebitengine.
 * [raycaster-go](https://github.com/harbdog/raycaster-go) - Golang raycaster engine using the Ebitengine 2D Game Library.
 * [gween](https://github.com/tanema/gween) - A small library to perform tweening in Go.
 * [ganim8](https://github.com/yohamta/ganim8) - An animation library for Ebitengine inspired by [anim8](https://github.com/kikito/anim8).
