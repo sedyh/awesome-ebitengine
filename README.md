@@ -82,6 +82,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [ebitengine-graphics](https://github.com/quasilyte/ebitengine-graphics) - A library that implements graphical primitives like Sprite, Line, Rect, etc.
 * [bitmapfont](https://github.com/hajimehoshi/bitmapfont) - A plug-and-play `font.Face`, that supports a wide range of languages and symbols
 * [bitsweetfont](https://github.com/quasilyte/bitsweetfont) - A plug-and-play `font.Face` that has limited language support, but has multiple sizes
+* [shapes](https://github.com/erparts/go-shapes) — A lightweight Ebitengine package for drawing common 2D shapes and simple effects.
 
 ### Video
 
