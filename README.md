@@ -51,6 +51,8 @@ If you see a package or project here that is no longer maintained or is not a go
 * [mipix](https://github.com/tinne26/mipix) - A pixel art aware layout and camera managment.
 * [egriden](https://github.com/greenthepear/egriden) - Framework for creating grid-based games and more.
 * [pi](https://github.com/elgopher/pi) - Game engine for creating retro games for modern computers. Inspired by Pico-8 and powered by Ebitengine.
+* [ebiten_extended](https://github.com/LuigiVanacore/ebiten_extended) - A Godot-inspired 2D framework with a hierarchical scene graph, layers system, camera, animated sprite,  action-based input, collisions and physics system, events, UI (with focus/anchors), particles, scene transitions and management, tweens, physics, audio, and tilemap support.
+
 
 ### GUI
 
