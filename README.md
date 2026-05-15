@@ -248,6 +248,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [kagei](https://github.com/MatusOllah/kagei) - A CLI tool for testing Kage shaders.
 * [kageviewer](https://github.com/TLINDEN/kageviewer) - A CLI tool to run, view and test Kage shaders.
 * [kageland](https://www.kageland.com/) - A website to create, find and share Kage shaders - inspired by Shadertoy.
+* [luluka](https://github.com/Tsukumogami-Software/luluka) - A CLI tool to preview Kage shaders, with support for PNG textures and uniform values defined in YAML.
 * [turtle](https://github.com/gary23b/turtle) - Turtle graphics. Teach Golang programming with instant visual feedback.
 
 #### Articles
