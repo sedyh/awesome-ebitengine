@@ -253,6 +253,13 @@ If you see a package or project here that is no longer maintained or is not a go
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Implementation details of the engine, game loop, etc.*
 
+
+Books
+
+<a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> Books about game development with Go and Ebitengine
+
+Beginning Game Programming with Go and Ebitengine - A practical, beginner-friendly guide to building 2D games with Go and Ebitengine. Learn the fundamentals of game loops, input handling, graphics, animation, audio, collisions, scenes, user interfaces, and complete game projects. The source code and examples from the book are available in the companion GitHub repository.
+
 * [tps-vs-fps](https://github.com/tinne26/tps-vs-fps) - Detailed explanation of how fps and tps work in Ebitengine.
 * [kage-desk](https://github.com/tinne26/kage-desk) - Gentle introduction to the Kage shading language.
 * [how-rendering-works](https://docs.google.com/document/d/1m60UWG9LFWgpO1vQaf5cUPx3MIsyRGklbOkT2mPxoAo/edit?pli=1#heading=h.rvlaezb31cye) - How Ebitengine achieves efficent rendering with its simple Image API.
