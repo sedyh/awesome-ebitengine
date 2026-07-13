@@ -31,6 +31,7 @@ If you see a package or project here that is no longer maintained or is not a go
 - [Demoscenes](#demoscenes)
 - [Applications](#applications)
 - [Articles](#articles)
+- [Books](#books)
 
 ### Frameworks
 
@@ -254,7 +255,7 @@ If you see a package or project here that is no longer maintained or is not a go
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Implementation details of the engine, game loop, etc.*
 
 
-Books
+### Books
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> Books about game development with Go and Ebitengine
 
