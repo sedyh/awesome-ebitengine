@@ -223,6 +223,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [snake-ebitengine](https://github.com/fancellu/snake-ebitengine) - Snake game with hopefully useful example code and WASM demo.
 * [jointforce](https://codeberg.org/tslocum/jointforce) - Two actor puzzle game. 
 * [zengo](https://github.com/nbnds/zengo) - Meditative tile-arranging puzzle
+* [tnk9x](https://github.com/shpaker/tnk9x) - A remake of the classic arcade game Battle City (NES, 1985).
   
 ### Demoscenes
 
