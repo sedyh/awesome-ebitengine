@@ -226,7 +226,8 @@ If you see a package or project here that is no longer maintained or is not a go
 * [jointforce](https://codeberg.org/tslocum/jointforce) - Two actor puzzle game. 
 * [zengo](https://github.com/nbnds/zengo) - Meditative tile-arranging puzzle
 * [tnk9x](https://github.com/shpaker/tnk9x) - A remake of the classic arcade game Battle City (NES, 1985).
-  
+* [aram-emu](https://github.com/mirusu400/aram-emu) - An emulator for Korean feature-phone software, the small games and apps that ran on 2000s WIPI handsets.
+
 ### Demoscenes
 
 <a href="#contents"><img src="https://user-images.githubusercontent.com/19890545/150034365-6561ab71-5cb4-466f-996c-ae4204ef7c12.png" alt="back" title="back" width="16px"/></a> *Demoscenes and simulations written in Ebitengine*
