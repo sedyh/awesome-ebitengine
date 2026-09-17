@@ -139,6 +139,7 @@ If you see a package or project here that is no longer maintained or is not a go
 
 * [ebitengine-resource](https://github.com/quasilyte/ebitengine-resource) - A resource manager for Ebitengine.
 * [gdata](https://github.com/quasilyte/gdata) - A gamedata package that provides convenient cross-platform storage.
+* [kassetpack](https://github.com/kadevland/kassetpack) - Lightweight asset packaging with deduplication, splitting, and XOR obfuscation.
 
 ### Scripting
 
