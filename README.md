@@ -88,6 +88,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [bitsweetfont](https://github.com/quasilyte/bitsweetfont) - A plug-and-play `font.Face` that has limited language support, but has multiple sizes
 * [shapes](https://github.com/erparts/go-shapes) — A lightweight Ebitengine package for drawing common 2D shapes and simple effects.
 * [willow](https://github.com/devthicket/willow) - A display-tree 2D rendering layer for Ebitengine with batching, cameras, culling, and hit detection. Inspired by Starling and PixiJS, with a focus on performance.
+* [ebitsvg](https://github.com/sagelyone/ebitsvg) - A library for drawing sharp SVG images in Ebitengine without rasterizing them every frame.
 
 ### Video
 
