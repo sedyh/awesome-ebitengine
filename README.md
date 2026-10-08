@@ -64,6 +64,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [messeji](https://codeberg.org/tslocum/etk/src/branch/main/messeji) - Text input and display widgets for Ebitengine.
 * [etk](https://codeberg.org/tslocum/etk) - Tool kit for creating graphical user interfaces.
 * [ultralight-ebitengine-port](https://github.com/YindSoft/ultralight-ebitengine-port) - Render HTML/CSS/JS interfaces as textures in Ebitengine using Ultralight.
+* [worldiety/gift](https://github.com/worldiety/gift) - Declarative UI toolkit for Go: SwiftUI-style views, typed state and GPU rendering with Ebitengine, without a browser or WebView.
 
 ### Graphics
 
