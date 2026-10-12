@@ -90,6 +90,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [shapes](https://github.com/erparts/go-shapes) — A lightweight Ebitengine package for drawing common 2D shapes and simple effects.
 * [willow](https://github.com/devthicket/willow) - A display-tree 2D rendering layer for Ebitengine with batching, cameras, culling, and hit detection. Inspired by Starling and PixiJS, with a focus on performance.
 * [ebitsvg](https://github.com/sagelyone/ebitsvg) - A library for drawing sharp SVG images in Ebitengine without rasterizing them every frame.
+* [kinescope](https://github.com/shpaker/kinescope) - The picture of an old tube TV: scanlines, phosphor mask, glow, afterglow, bulging glass and the flaws of a worn set, with an online lab.
 
 ### Video
 
