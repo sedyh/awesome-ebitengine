@@ -261,6 +261,7 @@ If you see a package or project here that is no longer maintained or is not a go
 * [luluka](https://github.com/Tsukumogami-Software/luluka) - A CLI tool to preview Kage shaders, with support for PNG textures and uniform values defined in YAML.
 * [turtle](https://github.com/gary23b/turtle) - Turtle graphics. Teach Golang programming with instant visual feedback.
 * [kutta](https://github.com/crgimenes/kutta) - A 2D wind tunnel: qualitative airfoil flow with smoke streaklines, a scene editor and animated control surfaces.
+* [gozen](https://github.com/nao1215/gozen) - A no-code toolkit for making 2D RPGs, visual novels and strategy games from YAML and assets.
 
 #### Articles
 
